@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3ea002/T/v1
+canonical_location: https://kanripo.org/bkk/KR3ea002/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 黃帝內經·素問
+  identifiers:
+    krp: KR3ea002
+  tags:
+    kr-categories: KR3ea
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ea002.xml
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 1, filename: KR3ea002_001-T.yaml, hash: 'sha256:e044e249fbc74a54a92041655a9c822dfe1c152c36625eab68271b925ffc8d63'}
+table_of_contents: []
+hash: sha256:83300bc0f19251de3e36f2543a5c9f4e58bf5cd1de5a0afe9786b037acd13602
